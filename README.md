@@ -1,8 +1,8 @@
 ## Hey there! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
 
-I am a highly motivated and fast learning Computer Engineer with a strong background in academic AI research in Computer Vision, Natural Language Processing and Applied Machine Learning. <br>
-With two years of industry experience, I worked on researching and developing Machine Learning solutions for the Innovation Lab at BMW Group, Machine Learning for Science Organization (Google Summer of Code), and Zaka. <br>
-Full Merit Scholarship recipient and former President of the LAU AI Club, I am passionate about applied Machine learning and looking for a challenging project to put my skills to the test. Find out more about me & feel free to connect with me here:
+I am a highly motivated and fast learning Computer Engineer with a strong background in academic AI research in Computer Vision, Natural Language Processing and Applied Machine Learning. I recently started my Masters in Bioinformatics at KU Leuven. <br>
+With three years of industry experience, I worked on researching and developing Machine Learning solutions for the Innovation Lab at BMW Group, Anghami, Machine Learning for Science Organization (Google Summer of Code), and Zaka. <br>
+Full Merit Scholarship recipient and former President of the Lebanese American University AI Club, I am passionate about applied Machine learning and looking for a challenging project to put my skills to the test. Find out more about me & feel free to connect with me here:
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anisdismail/)
 
