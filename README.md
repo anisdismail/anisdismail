@@ -27,7 +27,7 @@ Full Merit Scholarship recipient and former President of the Lebanese American U
 
 <br>
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=anisdismail&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=anisdismail&count_private=true&show_icons=true&include_all_commits=true&hide_rank=true)
 
 <br>
 
